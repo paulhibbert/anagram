@@ -4,8 +4,8 @@ Simple anagram game using PHP and Vue JS
 
 There are two versions:
 
-- [Picks a random word from a text file](https://demos.hibbert.online/anagram/anagram-vue.php)
-- [MySQL version](https://demos.hibbert.online/anagram/anagramv2.php)
+- Picks a random word from a text file
+- MySQL version
 
 The word list from which the anagrams are taken is from a bunch of Gutenburg texts. The wordlist, both text and database version is produced by running loadwords.php (database and table must exist already). The anagram app itself picks a random word from the text file or the database and presents it in a scrambled form.
 
